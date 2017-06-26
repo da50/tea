@@ -1,3 +1,3 @@
 # tea
 
-Project complete on local, then pushed final to github.
+I completed the project on my laptop, momentarily forgetting about github. Then I pushed the completed version to github.
